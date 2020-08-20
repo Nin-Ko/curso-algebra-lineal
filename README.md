@@ -1,12 +1,4 @@
-# [Curso completo de álgebra lineal de cero a experto](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
-### Aprende las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
-#### Con [Juan Gabriel Gomila](https://udemy.com/u/juangabriel2) y [María Santos](https://www.udemy.com/user/mery-santos/)
 
-#### Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
-
-#### Puedes ver todo el material del curso en [nuestra página de Github](https://joanby.github.io/curso-algebra-lineal/index.html)
-
-### ¿Qué vas a aprender?
 
 Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
@@ -37,7 +29,7 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 * Tema 7 - Aplicaciones Lineales
 * Tema 8 - Diagonalización de Endomorfismos
 * Tema 9 - Programación Lineal
-* Tema 10 - Cadenas de Markov
+* Tema 10 - Cadenas de Markov.
 
 
 ### El itinerario definitivo para convertirte en un experto en ML e IA
